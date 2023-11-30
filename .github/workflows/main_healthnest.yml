@@ -54,4 +54,4 @@ jobs:
           app-name: 'HealthNest'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CA5610ADB844536BD508395DA9BB932 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41C7BEA5768A469DB17E6B5D05AB087C }}
